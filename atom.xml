@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://github.com/qiaona462/qiaona462.github.io</id>
-    <title>RPAAA</title>
-    <updated>2020-07-25T08:44:29.359Z</updated>
+    <title>RPA助手</title>
+    <updated>2020-07-25T09:00:38.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://github.com/qiaona462/qiaona462.github.io"/>
     <link rel="self" href="https://https://github.com/qiaona462/qiaona462.github.io/atom.xml"/>
     <subtitle>机器人流程自动化分析助手</subtitle>
     <logo>https://https://github.com/qiaona462/qiaona462.github.io/images/avatar.png</logo>
     <icon>https://https://github.com/qiaona462/qiaona462.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, RPAAA</rights>
+    <rights>All rights reserved 2020, RPA助手</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://github.com/qiaona462/qiaona462.github.io/post/hello-gridea/</id>
